@@ -1,0 +1,40 @@
+{
+  "total_entries": 476,
+  "messages": 458,
+  "service": 18,
+  "authors": {
+    "Mr.Kontra": 156,
+    "Елора": 124,
+    "Віторі": 2,
+    "Ксю": 94,
+    "Сергій Прокопчук": 65,
+    "Жабеня": 17
+  },
+  "media_by_type": {
+    "photo": 14,
+    "file": 3,
+    "audio": 2,
+    "video": 7,
+    "sticker": 3
+  },
+  "days": {
+    "2026-11-03": 134,
+    "2026-11-05": 49,
+    "2026-11-06": 28,
+    "2026-11-07": 12,
+    "2026-11-10": 55,
+    "2026-11-11": 125,
+    "2026-11-12": 14,
+    "2026-11-13": 16,
+    "2026-11-15": 10,
+    "2026-11-17": 15
+  },
+  "reaction_messages": 153,
+  "reaction_groups": 161,
+  "reply_messages": 150,
+  "poll_messages": 1,
+  "files_in_export": 96,
+  "total_bytes": 8051113,
+  "orphaned_media_assets": [],
+  "missing_referenced_assets": []
+}
